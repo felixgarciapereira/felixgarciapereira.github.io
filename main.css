@@ -1,5 +1,7 @@
 /* GENERAL STYLES */
-
+/* Colors:
+/* #B10506 : red
+/* #ECDEC9 : beige
 
 * {
   font-family: Times, "Times New Roman", Georgia, serif;
@@ -14,7 +16,7 @@
 
 .navigation {
   position: fixed;
-  background: #2E4053;
+  background: #B10506;
   overflow: auto;
   width: 100%;
   min-height: 85px;
@@ -55,6 +57,12 @@
 
 /* ############### ABOUT STYLES */
 
+<style>
+    .justified-text {
+        text-align: justify;
+    }
+</style>
+
 .about .container {
   display: flex;
   padding: 130px 0 0 0;
@@ -67,11 +75,11 @@
 }
 .about .container h3 {
   text-align: center;
-  color: gray;
+  color: #ECDEC9;
 }
 .about .container .about-col a {
   text-align: center;
-    color: #ECDEC9;
+    color: #B10506;
 }
 .about-col {
   background: white;
@@ -168,7 +176,7 @@
     top: 0;
     left:-2rem; // Moves the icons into the space we made above.*/
     font-size: 1.5rem;
-    color: steelblue;
+    color: #B10506;
 }
 
 .interests span {
