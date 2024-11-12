@@ -69,7 +69,7 @@
 }
 .about .container h3 {
   text-align: center;
-  color: #ECDEC9;
+  color: #B10506;
 }
 .about .container .about-col a {
   text-align: center;
@@ -88,6 +88,10 @@
 }
 .about .about-col img {
   width: 300px;  
+  padding: 30px 100px 30px 50px;
+}
+.about .about-col2 img {
+  width: 100px;  
   padding: 30px 100px 30px 50px;
 }
 .p-one {
