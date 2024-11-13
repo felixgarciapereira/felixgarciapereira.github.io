@@ -1,6 +1,6 @@
 /* GENERAL STYLES */
 /* Colors:
-/* #B10506 : redd
+/* #B10506 : red
 /* #ECDEC9 : beige
 
 * {
@@ -143,12 +143,10 @@
 .interests .container {
   display: flex;
   background: #ECDEC9;
-  justify-content: space-between;
-  align-items: flex-start;
+  overflow: auto;
   width: 100%;
-  flex-wrap: nowrap;
-  padding: 20px 10%;
-  box-sizing: border-box;
+  min-height: 85px;
+  z-index: 1;
 }
 
 .interests img {
