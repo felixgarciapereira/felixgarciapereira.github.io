@@ -90,11 +90,11 @@
 .about .left {
   min-width: 600px;
   text-align: justify;
-  margin-left: 200px;
+  margin-left: 400px;
 }
 .about .right {
   min-width: 500px;
-  padding: 0px 200px 50px 50px;
+  padding: 0px 400px 50px 50px;
 }
 .about .about-col img {
   min-width: 400px;  
