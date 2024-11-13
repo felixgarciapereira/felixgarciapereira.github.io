@@ -90,14 +90,14 @@
 .about .left {
   width: 800px;
   text-align: justify;
-  margin-left: 30px;
+  margin-left: 100px;
 }
 .about .right {
-  min-width: 400px;
+  min-width: 800px;
   padding: 0px 0px 50px 50px;
 }
 .about .about-col img {
-  width: 300px;  
+  width: 600px;  
   padding: 30px 100px 30px 50px;
 }
 .p-one {
@@ -143,7 +143,7 @@
 /* ############### INTEREST STYLES */
 
 .interests .container {
-  background: #E5E7E9;
+  background: #B10506;
   display: flex;
   width: 100%;
   line-height: 1.3;
@@ -360,7 +360,7 @@
   width: 70%;
 }
 .back-cont2-container {
-  background: #E5E7E9;
+  background: #B10506;
 }
 .back-cont2-container h1 {
   padding: 30px 0 0 0;
@@ -379,7 +379,7 @@
 }
 
 .back-cont4-container {
-  background: #E5E7E9;
+  background: #B10506;
 }
 .back-cont4 {
   padding: 30px 0 30px 0;
