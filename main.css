@@ -184,7 +184,7 @@
 }
 
 .interests span {
-  color: #ECDEC9;
+  color: black;
 }
 
 /* ############### OUTREACH STYLES */
@@ -205,7 +205,7 @@
   width: 70%;
 }
 .outreach-cont span {
-  color: #ECDEC9;
+  color: black;
 }
 
 /* ############### PUBLICATIONS STYLES */
@@ -426,7 +426,7 @@
 .resume .head-block-right {
   text-transform: uppercase;
   float: right;
-  color: #ECDEC9;
+  color: #B10506;
   font-weight: 400;
   line-height: 24px;
   margin: 10px 0px 10px 0px;
@@ -464,7 +464,7 @@
 .employment .head-block-right {
   text-transform: uppercase;
   float: right;
-  color: #ECDEC9;
+  color: #B10506;
   font-weight: 400;
   line-height: 24px;
   margin: 10px 0px 10px 0px;
