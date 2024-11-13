@@ -87,7 +87,7 @@
 .about .left {
   min-width: 600px;
   text-align: justify;
-  margin-left: 100px;
+  margin-left: 200px;
 }
 .about .right {
   min-width: 500px;
@@ -141,10 +141,12 @@
 /* ############### INTEREST STYLES */
 
 .interests .container {
-  width: 100%;
-  max-width: 2000px; /* Matches red container's width */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
   margin: 0 auto;
-  background: #ECDEC9;
+  padding: 20px 0;
 }
 .int-col {
   padding: 0px 0px 10px 50px;
