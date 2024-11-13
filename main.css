@@ -28,11 +28,12 @@
 }
 .nav-ini a {
     display: block;
-    font-size: 24px;
+    font-size: 30px;
     color: white;
 }
 .nav-items {
     text-align: center;
+    font-size: 20px;
     margin-top: 10px;
 }
 }
