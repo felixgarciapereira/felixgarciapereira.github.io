@@ -27,6 +27,7 @@
     margin-top: 10px;
 }
 .nav-ini a {
+    text-align: center;
     display: block;
     font-size: 30px;
     color: white;
@@ -88,17 +89,17 @@
   padding: 0px 0px 50px 0px;
 }
 .about .left {
-  min-width: 600px;
+  min-width: 800px;
   text-align: justify;
-  margin-left: 200px;
+  margin-left: 100px;
 }
 .about .right {
-  min-width: 500px;
-  padding: 0px 200px 50px 50px;
+  min-width: 400px;
+  padding: 0px 0px 50px 50px;
 }
 .about .about-col img {
-  min-width: 400px;  
-  padding: 50px 50px 50px 50px;
+  width: 300px;  
+  padding: 30px 100px 30px 50px;
 }
 .p-one {
   text-align: center;
@@ -158,9 +159,9 @@
 .interests img {
   min-width: 200px;
   max-width: 300px;
-  width: 20%;
   height: auto;
-  padding: 50px 300px 50px 50px;
+  width: 25%;
+  padding: 0px 50px 0px 50px;
 }
 .interests .right {
   width: 20%;
@@ -218,6 +219,7 @@
 
 /* ############### PUBLICATIONS STYLES */
 .publications {
+  text-align: justify;
   padding: 130px 0 0 0;
 }
 .publications h1 {
