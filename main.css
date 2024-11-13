@@ -90,15 +90,15 @@
 .about .left {
   min-width: 600px;
   text-align: justify;
-  margin-left: 100px;
+  margin-left: 200px;
 }
 .about .right {
   min-width: 500px;
-  padding: 0px 0px 50px 50px;
+  padding: 0px 200px 50px 50px;
 }
 .about .about-col img {
-  width: 400px;  
-  padding: 30px 100px 30px 50px;
+  min-width: 400px;  
+  padding: 50px 50px 50px 50px;
 }
 .p-one {
   text-align: center;
@@ -156,10 +156,11 @@
   max-width: 200px;
 }
 .interests img {
+  min-width: 200px;
   max-width: 300px;
   width: 20%;
   height: auto;
-  padding: 50px 50px 50px 50px;
+  padding: 50px 300px 50px 50px;
 }
 .interests .right {
   width: 20%;
