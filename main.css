@@ -154,18 +154,18 @@
   display: flex;
   justify-content: center; /* Center the content horizontally */
   align-items: center;  /* Center the content vertically */
-  width: 70%;  /* Limit the width to ensure centering */
+  width: 90%;  /* Limit the width to ensure centering */
 }
 
 .interests img {
-  width: 20%; /* Adjust the image size as needed */
+  width: 30%; /* Adjust the image size as needed */
   background: #ECDEC9;
   height: auto;
 }
 
 .interests .right, .interests .right2 {
   background: #ECDEC9;
-  width: 40%; /* Adjust to distribute remaining space */
+  width: 30%; /* Adjust to distribute remaining space */
 }
 
 .interests .icon-list {
