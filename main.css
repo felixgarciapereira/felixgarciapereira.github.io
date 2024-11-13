@@ -64,8 +64,8 @@
 
 .about .container {
   display: flex;
-  padding: 130px 0 0 0;
-  width: 80%;
+  padding: 0 0 0 0;
+  width: 100%;
   line-height: 1.5;
 }
 .about .container h2 {
