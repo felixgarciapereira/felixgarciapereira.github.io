@@ -89,13 +89,14 @@
   padding: 0px 0px 50px 0px;
 }
 .about .left {
-  min-width: 600px;
+  max-width: 600px;
   text-align: justify;
-  margin-left: 200px;
+  margin-left: 100px;
 }
 .about .right {
-  min-width: 500px;
+  max-width: 500px;
   padding: 0px 0px 50px 50px;
+  margin-right: 100px;
 }
 .about .about-col img {
   max-width: 400px;  
@@ -153,14 +154,15 @@
   padding: 0px 0px 10px 50px;
 }
 .interests .left {
+  margin-left: -100px;
   min-width: 200px;
   max-width: 200px;
 }
 .interests img {
   max-width: 200px;
   height: auto;
-  width: 25%;
-  padding: 0px 0px 0px -200px;
+  width: 0%;
+  padding: 0px 0px 0px 0px;
 }
 .interests .right {
   width: 20%;
