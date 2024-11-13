@@ -64,7 +64,7 @@
 
 .about .container {
   display: flex;
-  padding: 0 0 0 0;
+  padding: 200px 200px 200px 200px;
   width: 80%;
   line-height: 1.5;
 }
