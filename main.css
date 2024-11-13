@@ -65,7 +65,7 @@
 .about .container {
   display: flex;
   justify-content: center;  /* Horizontally center the content */
-  padding: 100px 20px;  /* Adjust padding to suit */
+  padding: 120px 20px;  /* Adjust padding to suit */
   width: 100%;
   line-height: 1.5;
 }
@@ -87,7 +87,7 @@
 }
 .about .left {
   min-width: 600px;
-  font-size: 16px;
+  font-size: 20px;
   text-align: justify;
   margin-left: 100px;
 }
@@ -144,7 +144,7 @@
 
 .interests {
   background: #ECDEC9; /* Beige background */
-  padding: 0px 20px; /* Adjust padding as needed */
+  padding: 10px 20px; /* Adjust padding as needed */
   display: flex;
   justify-content: center; /* Horizontally center the content */
   max-height: 300px;
@@ -154,7 +154,7 @@
   display: flex;
   justify-content: space-between; /* Center the content horizontally */
   width: 90%;  /* Limit the width to ensure centering */
-  gap: 100px; /* Space between the items in the container */
+  gap: 120px; /* Space between the items in the container */
 }
 
 .interests img {
