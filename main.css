@@ -155,10 +155,10 @@
   max-width: 200px;
 }
 .interests img {
-  float: left;
-  min-width: 25%;
-  height: auto;
-  padding: 0; /* Optional: Remove padding if alignment is off */
+  max-width: 300px; /* Adjust this value as needed */
+  width: auto; /* Maintains aspect ratio */
+  height: auto; /* Maintains aspect ratio */
+  padding-left: 20px; /* Optional: space between image and text */
 }
 .interests .right {
   width: 25%;
