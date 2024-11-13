@@ -42,7 +42,7 @@
 }
 .nav-items ul li {
   display: inline-block;
-  margin: 15px 0 0 15px;
+  margin: 0px 0 0 15px;
 }
 .nav-items ul li a {
   color: white;
@@ -99,10 +99,6 @@
 .about .about-col img {
   width: 300px;  
   padding: 30px 100px 30px 50px;
-}
-.about .about-col2 img {
-  width: 150px; /* Adjust width for smaller logo */
-  padding: 20px;
 }
 .p-one {
   text-align: center;
