@@ -87,7 +87,7 @@
 .about .left {
   min-width: 600px;
   text-align: justify;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 .about .right {
   min-width: 500px;
@@ -142,22 +142,24 @@
 
 .interests .container {
   display: flex;
+  background: #ECDEC9;
   justify-content: space-between;
   align-items: flex-start;
   width: 100%;
   flex-wrap: nowrap;
   padding: 20px 10%;
   box-sizing: border-box;
-  background: #ECDEC9;
 }
 
 .interests img {
   width: 25%; /* Adjust as needed to fit nicely */
+  background: #ECDEC9;
   height: auto;
   padding-right: 20px;
 }
 
 .interests .right, .interests .right2 {
+  background: #ECDEC9;
   width: 35%; /* Adjust to distribute remaining space */
 }
 
