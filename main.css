@@ -98,7 +98,8 @@
   margin-right: 100px;
 }
 .about .about-col img {
-  min-width: 400px;  
+  min-width: 400px; 
+  max-width: 400px;  
   padding: 30px 100px 30px 50px;
 }
 .p-one {
@@ -153,12 +154,12 @@
   padding: 0px 0px 10px 50px;
 }
 .interests .left {
-  min-width: 495px;
-  max-width: 495px;
+  min-width: 200px;
+  max-width: 200px;
 }
 .interests img {
-  min-width: 300px;  
-  padding: 30px 100px 30px 50px;
+  min-width: 200px;
+  max-width: 200px;
 }
 .interests .right {
   width: 20%;
