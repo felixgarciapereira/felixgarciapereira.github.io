@@ -9,7 +9,7 @@
 }
 .container {
   max-width: 2000px;
-  margin: 0 auto;
+  margin: 200 auto;
 }
 
 /* ############### NAVIGATION STYLES */
@@ -22,16 +22,18 @@
   min-height: 85px;
   z-index: 1;
 }
+.nav-ini {
+    text-align: center;
+    margin-top: 10px;
+}
 .nav-ini a {
-  display: inline-block;
-  color: white;
-  float: left;
-  margin: 5px 0 0 30px;
+    display: block;
+    font-size: 24px;
 }
 .nav-items {
-  display: inline-block;
-  float: right;
-  padding-right: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
 }
 .nav-items ul {
   padding: 0;
@@ -61,7 +63,7 @@
   display: flex;
   padding: 130px 0 0 0;
   width: 80%;
-  line-height: 1.3;
+  line-height: 1.5;
 }
 .about .container h2 {
   text-align: center;
@@ -81,6 +83,8 @@
 }
 .about .left {
   width: 400px;
+  text-align: justify;
+  margin-left: 20px;
 }
 .about .right {
   min-width: 400px;
@@ -91,8 +95,8 @@
   padding: 30px 100px 30px 50px;
 }
 .about .about-col2 img {
-  width: 100px;  
-  padding: 30px 100px 30px 50px;
+  width: 150px; /* Adjust width for smaller logo */
+  padding: 20px;
 }
 .p-one {
   text-align: center;
