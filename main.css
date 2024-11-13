@@ -87,7 +87,7 @@
 .about .left {
   min-width: 600px;
   text-align: justify;
-  margin-left: 200px;
+  margin-left: 100px;
 }
 .about .right {
   min-width: 500px;
@@ -148,6 +148,7 @@
   flex-wrap: nowrap;
   padding: 20px 10%;
   box-sizing: border-box;
+  background: #ECDEC9;
 }
 
 .interests img {
