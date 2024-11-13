@@ -142,15 +142,23 @@
 
 /* ############### INTEREST STYLES */
 
+.interests {
+  background: #ECDEC9; /* Beige background */
+  padding: 50px 20px; /* Adjust padding as needed */
+  display: flex;
+  justify-content: center; /* Horizontally center the content */
+  align-items: center;  /* Vertically center the content */
+}
+
 .interests .container {
   display: flex;
-  background: #ECDEC9;
-  width: 100%;
-  padding: 0px 100px 0px 0px;
+  justify-content: center; /* Center the content horizontally */
+  align-items: center;  /* Center the content vertically */
+  width: 70%;  /* Limit the width to ensure centering */
 }
 
 .interests img {
-  width: 20%; /* Adjust as needed to fit nicely */
+  width: 20%; /* Adjust the image size as needed */
   background: #ECDEC9;
   height: auto;
 }
