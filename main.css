@@ -64,8 +64,10 @@
 
 .about .container {
   display: flex;
-  padding: 100px 50px 20px 0px;
-  width: 80%;
+  justify-content: center;  /* Horizontally center the content */
+  align-items: center;  /* Vertically center content */
+  padding: 100px 20px;  /* Adjust padding to suit */
+  width: 100%;
   line-height: 1.5;
 }
 .about .container h2 {
