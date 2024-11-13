@@ -88,12 +88,10 @@
 .about .left {
   min-width: 600px;
   text-align: justify;
-  margin-left: 50px;
 }
 .about .right {
   min-width: 500px;
   padding: 0px 0px 50px 50px;
-  margin-right: 100px;
 }
 .about .about-col img {
   max-width: 400px;  
@@ -144,10 +142,8 @@
 .interests .container {
   display: flex;
   background: #ECDEC9;
-  overflow: auto;
   width: 100%;
-  min-height: 85px;
-  z-index: 1;
+  line-height: 1.3;
 }
 
 .interests img {
