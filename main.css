@@ -148,19 +148,18 @@
   display: flex;
   justify-content: center; /* Horizontally center the content */
   align-items: center;  /* Vertically center the content */
+  max-height: 200px;
 }
 
 .interests .container {
   display: flex;
   justify-content: center; /* Center the content horizontally */
   align-items: center;  /* Center the content vertically */
-  width: 70%;  /* Limit the width to ensure centering */
-  max-height: 200px;
+  width: 90%;  /* Limit the width to ensure centering */
 }
 
 .interests img {
-  width: 33%; /* Adjust the image size as needed */
-  align-items: center;  /* Center the content vertically */
+  width: 24%; /* Adjust the image size as needed */
   background: #ECDEC9;
   height: auto;
 }
