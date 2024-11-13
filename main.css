@@ -65,7 +65,6 @@
 .about .container {
   display: flex;
   justify-content: center;  /* Horizontally center the content */
-  align-items: center;  /* Vertically center content */
   padding: 100px 20px;  /* Adjust padding to suit */
   width: 100%;
   line-height: 1.5;
@@ -147,25 +146,25 @@
   padding: 50px 20px; /* Adjust padding as needed */
   display: flex;
   justify-content: center; /* Horizontally center the content */
-  max-height: 200px;
+  max-height: 150px;
 }
 
 .interests .container {
   display: flex;
   justify-content: space-between; /* Center the content horizontally */
   width: 90%;  /* Limit the width to ensure centering */
-  gap: 30px; /* Space between the items in the container */
+  gap: 80px; /* Space between the items in the container */
 }
 
 .interests img {
-  width: 24%; /* Adjust the image size as needed */
+  width: 28%; /* Adjust the image size as needed */
   background: #ECDEC9;
   height: auto;
 }
 
 .interests .right, .interests .right2 {
   background: #ECDEC9;
-  width: 33%; /* Adjust to distribute remaining space */
+  width: 31%; /* Adjust to distribute remaining space */
 }
 
 .interests .icon-list {
