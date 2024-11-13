@@ -65,7 +65,7 @@
 .about .container {
   display: flex;
   justify-content: center;  /* Horizontally center the content */
-  padding: 200px 20px;  /* Adjust padding to suit */
+  padding: 100px 20px;  /* Adjust padding to suit */
   width: 100%;
   line-height: 1.5;
 }
@@ -83,11 +83,11 @@
 }
 .about-col {
   background: white;
-  font-size: 16px;
   padding: 0px 0px 50px 0px;
 }
 .about .left {
   min-width: 600px;
+  font-size: 16px;
   text-align: justify;
   margin-left: 100px;
 }
@@ -158,14 +158,14 @@
 }
 
 .interests img {
-  width: 28%; /* Adjust the image size as needed */
+  width: 24%; /* Adjust the image size as needed */
   background: #ECDEC9;
   height: auto;
 }
 
 .interests .right, .interests .right2 {
   background: #ECDEC9;
-  width: 31%; /* Adjust to distribute remaining space */
+  width: 32%; /* Adjust to distribute remaining space */
 }
 
 .interests .icon-list {
