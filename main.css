@@ -87,7 +87,7 @@
 }
 .about .left {
   min-width: 600px;
-  font-size: 20px;
+  font-size: 16px;
   text-align: justify;
   margin-left: 100px;
 }
@@ -144,7 +144,7 @@
 
 .interests {
   background: #ECDEC9; /* Beige background */
-  padding: 10px 20px; /* Adjust padding as needed */
+  padding: 20px 50px; /* Adjust padding as needed */
   display: flex;
   justify-content: center; /* Horizontally center the content */
   max-height: 300px;
@@ -153,33 +153,33 @@
 .interests .container {
   display: flex;
   justify-content: space-between; /* Center the content horizontally */
-  width: 90%;  /* Limit the width to ensure centering */
+  width: 100%;  /* Limit the width to ensure centering */
   gap: 120px; /* Space between the items in the container */
 }
 
 .interests img {
-  width: 24%; /* Adjust the image size as needed */
+  width: 26%; /* Adjust the image size as needed */
   background: #ECDEC9;
   height: auto;
 }
 
 .interests .right, .interests .right2 {
   background: #ECDEC9;
-  width: 32%; /* Adjust to distribute remaining space */
+  width: 37%; /* Adjust to distribute remaining space */
 }
 
 .interests .icon-list {
 }
-.interests .right2 ul {
+.interests .right, .interests .right2 ul {
     list-style: none;
 }
-.interests .right2 li {
+.interests .right, .interests .right2 li {
     line-height: 1.3;
     margin-bottom: 1.1rem;
     position: relative; /* To absolutly position the icons.*/
     margin-left: 0.0rem;/*To make some space for the icons.*/
 }
-.interests .right2 li:before {
+.interests .right, .interests .right2 li:before {
     font-family: 'fontawesome';
     position: absolute;
     top: 0;
