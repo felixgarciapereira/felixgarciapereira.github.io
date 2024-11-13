@@ -65,9 +65,8 @@
 .about .container {
   display: flex;
   padding: 0 0 0 0;
-  width: 100%;
+  width: 80%;
   line-height: 1.5;
-  align-content: center;
 }
 .about .container h2 {
   text-align: center;
@@ -88,10 +87,12 @@
 .about .left {
   min-width: 600px;
   text-align: justify;
+  margin-left: 100px;
 }
 .about .right {
   min-width: 500px;
   padding: 0px 0px 50px 50px;
+  margin-right: 100px;
 }
 .about .about-col img {
   max-width: 400px;  
@@ -143,11 +144,10 @@
   display: flex;
   background: #ECDEC9;
   width: 100%;
-  line-height: 1.3;
 }
 
 .interests img {
-  width: 30%; /* Adjust as needed to fit nicely */
+  width: 20%; /* Adjust as needed to fit nicely */
   background: #ECDEC9;
   height: auto;
   padding-right: 100px;
@@ -155,7 +155,7 @@
 
 .interests .right, .interests .right2 {
   background: #ECDEC9;
-  width: 35%; /* Adjust to distribute remaining space */
+  width: 40%; /* Adjust to distribute remaining space */
 }
 
 .interests .icon-list {
