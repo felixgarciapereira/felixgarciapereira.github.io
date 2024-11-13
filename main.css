@@ -147,15 +147,14 @@
   padding: 50px 20px; /* Adjust padding as needed */
   display: flex;
   justify-content: center; /* Horizontally center the content */
-  align-items: center;  /* Vertically center the content */
   max-height: 200px;
 }
 
 .interests .container {
   display: flex;
-  justify-content: center; /* Center the content horizontally */
-  align-items: center;  /* Center the content vertically */
+  justify-content: space-between; /* Center the content horizontally */
   width: 90%;  /* Limit the width to ensure centering */
+  gap: 30px; /* Space between the items in the container */
 }
 
 .interests img {
