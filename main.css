@@ -90,11 +90,11 @@
 .about .left {
   min-width: 600px;
   text-align: justify;
-  margin-left: 400px;
+  margin-left: 200px;
 }
 .about .right {
   min-width: 500px;
-  padding: 0px 400px 50px 50px;
+  padding: 0px 200px 50px 50px;
 }
 .about .about-col img {
   min-width: 400px;  
@@ -160,7 +160,7 @@
   max-width: 300px;
   width: 20%;
   height: auto;
-  padding: 50px 700px 50px 50px;
+  padding: 50px 300px 50px 50px;
 }
 .interests .right {
   width: 20%;
@@ -221,10 +221,12 @@
   padding: 130px 0 0 0;
 }
 .publications h1 {
+  text-align: justify;
   margin: auto;
   width: 70%;
 }
 .publications-cont {
+  text-align: justify;
   margin: auto;
   width: 70%;
 }
