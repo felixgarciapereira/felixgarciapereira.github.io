@@ -154,18 +154,20 @@
   display: flex;
   justify-content: center; /* Center the content horizontally */
   align-items: center;  /* Center the content vertically */
-  width: 90%;  /* Limit the width to ensure centering */
+  width: 70%;  /* Limit the width to ensure centering */
+  max-height: 200px;
 }
 
 .interests img {
-  width: 30%; /* Adjust the image size as needed */
+  width: 33%; /* Adjust the image size as needed */
+  align-items: center;  /* Center the content vertically */
   background: #ECDEC9;
   height: auto;
 }
 
 .interests .right, .interests .right2 {
   background: #ECDEC9;
-  width: 30%; /* Adjust to distribute remaining space */
+  width: 33%; /* Adjust to distribute remaining space */
 }
 
 .interests .icon-list {
