@@ -92,7 +92,7 @@
 .about .right {
   min-width: 500px;
   padding: 0px 0px 50px 50px;
-  margin-right: 100px;
+  margin-right: 0px;
 }
 .about .about-col img {
   max-width: 400px;  
@@ -156,8 +156,7 @@
 }
 .interests img {
   float: left;
-  width: auto;
-  max-width: 25%;
+  min-width: 25%;
   height: auto;
   padding: 0; /* Optional: Remove padding if alignment is off */
 }
