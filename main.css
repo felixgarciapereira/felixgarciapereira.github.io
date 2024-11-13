@@ -88,16 +88,17 @@
   padding: 0px 0px 50px 0px;
 }
 .about .left {
-  width: 800px;
+  min-width: 800px;
   text-align: justify;
   margin-left: 100px;
 }
 .about .right {
   min-width: 400px;
   padding: 0px 0px 50px 50px;
+  margin-right: 100px;
 }
 .about .about-col img {
-  width: 600px;  
+  min-width: 400px;  
   padding: 30px 100px 30px 50px;
 }
 .p-one {
@@ -152,10 +153,11 @@
   padding: 0px 0px 10px 50px;
 }
 .interests .left {
-  width: 495px;
+  min-width: 495px;
+  max-width: 495px;
 }
 .interests img {
-  width: 300px;  
+  min-width: 300px;  
   padding: 30px 100px 30px 50px;
 }
 .interests .right {
