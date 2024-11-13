@@ -111,7 +111,7 @@
 .p-two {
   text-align: center;
   font-size: 20px;
-  color: gray;
+  color: #ECDEC9;
 }
 .p-three {
   text-align: center;
@@ -188,7 +188,7 @@
 }
 
 .interests span {
-  color: gray;
+  color: #ECDEC9;
 }
 
 /* ############### OUTREACH STYLES */
@@ -209,7 +209,7 @@
   width: 70%;
 }
 .outreach-cont span {
-  color: gray;
+  color: #ECDEC9;
 }
 
 /* ############### PUBLICATIONS STYLES */
@@ -430,7 +430,7 @@
 .resume .head-block-right {
   text-transform: uppercase;
   float: right;
-  color: rgb(115, 114, 118);
+  color: #ECDEC9;
   font-weight: 400;
   line-height: 24px;
   margin: 10px 0px 10px 0px;
@@ -468,7 +468,7 @@
 .employment .head-block-right {
   text-transform: uppercase;
   float: right;
-  color: rgb(115, 114, 118);
+  color: #ECDEC9;
   font-weight: 400;
   line-height: 24px;
   margin: 10px 0px 10px 0px;
