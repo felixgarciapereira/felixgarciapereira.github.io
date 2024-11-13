@@ -98,7 +98,8 @@
   padding: 0px 0px 50px 50px;
 }
 .about .about-col img {
-  width: 300px;  
+  max-width: 400px;  
+  height: auto;
   padding: 30px 100px 30px 50px;
 }
 .p-one {
@@ -157,7 +158,6 @@
   max-width: 200px;
 }
 .interests img {
-  min-width: 200px;
   max-width: 300px;
   height: auto;
   width: 25%;
