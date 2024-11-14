@@ -65,7 +65,7 @@
 .about .container {
   display: flex;
   justify-content: center;  /* Horizontally center the content */
-  padding: 2vw 5vw 1vw 5vw;  /* Adjust padding to suit */
+  padding: 120px 20px;  /* Adjust padding to suit */
   width: 100%;
   line-height: 1.5;
 }
@@ -97,7 +97,7 @@
   margin-right: 100px;
 }
 .about .about-col img {
-  max-width: 30vw;  
+  max-width: 20vw;  
   padding: 1vw 5vw 1vw 2vw;
 }
 .p-one {
@@ -258,7 +258,7 @@
   background: white;
 }
 .research-cont1 {
-  padding: 0vw 0 0px 0;
+  padding: 0 0 0 0;
   margin: auto;
   width: 80%;
 }
@@ -275,7 +275,7 @@
   background: white;
 }
 .research-cont2 {
-  padding: 0vw 0 0px 0;
+  padding: 0 0 0 0;
   margin: auto;
   width: 80%;
 }
