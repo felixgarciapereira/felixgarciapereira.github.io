@@ -86,19 +86,19 @@
   padding: 0px 0px 50px 0px;
 }
 .about .left {
-  min-width: 600px;
+  min-width: 30vw;
   font-size: 16px;
   text-align: justify;
-  margin-left: 100px;
+  margin-left: 5vw;
 }
 .about .right {
-  min-width: 500px;
-  padding: 0px 0px 50px 50px;
+  min-width: 25vw;
+  padding: 0px 0px 2vw 2vw;
   margin-right: 100px;
 }
 .about .about-col img {
-  max-width: 400px;  
-  padding: 30px 100px 30px 50px;
+  max-width: 20vw;  
+  padding: 1vw 5vw 1vw 2vw;
 }
 .p-one {
   text-align: center;
@@ -118,7 +118,7 @@
 /* ############### CONTACT STYLES */
 
 .contact-icons {
-  padding-top: 20px;
+  padding-top: 1vw;
   font-size: 45px;
   display: block;
   text-align: center;
@@ -144,7 +144,7 @@
 
 .interests {
   background: #ECDEC9; /* Beige background */
-  padding: 20px 50px; /* Adjust padding as needed */
+  padding: 1vw 2vw; /* Adjust padding as needed */
   display: flex;
   justify-content: center; /* Horizontally center the content */
   max-height: 300px;
@@ -154,7 +154,7 @@
   display: flex;
   justify-content: space-between; /* Center the content horizontally */
   width: 100%;  /* Limit the width to ensure centering */
-  gap: 120px; /* Space between the items in the container */
+  gap: 6vw; /* Space between the items in the container */
 }
 
 .interests img {
@@ -247,7 +247,7 @@
 
 /* ############### RESEARCH STYLES */
 .research {
-  padding: 130px 0 0 0;
+  padding: 6vw 0 0 0;
 }
 .research h1 {
   margin: auto;
@@ -258,7 +258,7 @@
   background: white;
 }
 .research-cont1 {
-  padding: 20px 0 0px 0;
+  padding: 1vw 0 0px 0;
   margin: auto;
   width: 80%;
 }
@@ -267,15 +267,15 @@
 }
 .research-cont1 img {
   float: left;
-  padding: 0px 20px 10px 0px;
-  max-width: 700px;
+  padding: 0px 1vw 1vw 0px;
+  max-width: 35vw;
 }
 
 .research-cont2-container {
   background: white;
 }
 .research-cont2 {
-  padding: 10px 0 0px 0;
+  padding: 1vw 0 0px 0;
   margin: auto;
   width: 80%;
 }
@@ -284,15 +284,15 @@
 }
 .research-cont2 img {
   float: right;
-  padding: 0px 0 10px 20px;
-  max-width: 700px;
+  padding: 0px 0 1vw 1vw;
+  max-width: 35vw;
 }
 
 .research-cont3-container {
   background: white;
 }
 .research-cont3 {
-  padding: 20px 0 0px 0;
+  padding: 1vw 0 0 0;
   margin: auto;
   width: 80%;
 }
@@ -301,8 +301,8 @@
 }
 .research-cont3 img {
   float: left;
-  padding: 0 30px 0 0;
-  max-width: 500px;
+  padding: 0 1vw 0 0;
+  max-width: 25vw;
 }
 
 /* ############### BACKGROUND STYLES */
