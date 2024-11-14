@@ -97,7 +97,7 @@
   margin-right: 100px;
 }
 .about .about-col img {
-  min-width: 25vw;  
+  max-width: 30vw;  
   padding: 1vw 5vw 1vw 2vw;
 }
 .p-one {
@@ -258,7 +258,7 @@
   background: white;
 }
 .research-cont1 {
-  padding: 2vw 0 0px 0;
+  padding: 0vw 0 0px 0;
   margin: auto;
   width: 80%;
 }
@@ -267,7 +267,7 @@
 }
 .research-cont1 img {
   float: left;
-  padding: 0px 1vw 1vw 0px;
+  padding: 1px 1vw 1vw 0px;
   max-width: 45vw;
 }
 
@@ -275,7 +275,7 @@
   background: white;
 }
 .research-cont2 {
-  padding: 2vw 0 0px 0;
+  padding: 0vw 0 0px 0;
   margin: auto;
   width: 80%;
 }
