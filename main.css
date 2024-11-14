@@ -168,8 +168,6 @@
   width: 37%; /* Adjust to distribute remaining space */
 }
 
-.interests .icon-list {
-}
 .interests .right, .interests .right2 ul {
     list-style: none;
 }
@@ -186,10 +184,6 @@
     left:-2rem; // Moves the icons into the space we made above.*/
     font-size: 1.5rem;
     color: #B10506;
-}
-
-.interests span {
-  color: black;
 }
 
 /* ############### OUTREACH STYLES */
