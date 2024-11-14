@@ -65,7 +65,7 @@
 .about .container {
   display: flex;
   justify-content: center;  /* Horizontally center the content */
-  padding: 120px 20px;  /* Adjust padding to suit */
+  padding: 2vw 5vw 1vw 5vw;  /* Adjust padding to suit */
   width: 100%;
   line-height: 1.5;
 }
@@ -97,7 +97,7 @@
   margin-right: 100px;
 }
 .about .about-col img {
-  max-width: 20vw;  
+  min-width: 25vw;  
   padding: 1vw 5vw 1vw 2vw;
 }
 .p-one {
@@ -247,7 +247,7 @@
 
 /* ############### RESEARCH STYLES */
 .research {
-  padding: 6vw 0 0 0;
+  padding: 10vw 2vw 2vw 2vw;
 }
 .research h1 {
   margin: auto;
@@ -258,7 +258,7 @@
   background: white;
 }
 .research-cont1 {
-  padding: 1vw 0 0px 0;
+  padding: 2vw 0 0px 0;
   margin: auto;
   width: 80%;
 }
@@ -268,14 +268,14 @@
 .research-cont1 img {
   float: left;
   padding: 0px 1vw 1vw 0px;
-  max-width: 35vw;
+  max-width: 45vw;
 }
 
 .research-cont2-container {
   background: white;
 }
 .research-cont2 {
-  padding: 1vw 0 0px 0;
+  padding: 2vw 0 0px 0;
   margin: auto;
   width: 80%;
 }
@@ -285,7 +285,7 @@
 .research-cont2 img {
   float: right;
   padding: 0px 0 1vw 1vw;
-  max-width: 35vw;
+  max-width: 45vw;
 }
 
 .research-cont3-container {
