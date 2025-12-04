@@ -316,20 +316,20 @@
 
 /* Image: exactly 50% */
 .side-img {
-  width: 50%;
+  width: 40%;
   height: auto;
   display: block;
 }
 
 /* Text at the side: 50% */
 .side-text {
-  width: 50%;
+  width: 40%;
   margin: 0;
 }
 
 /* Full-width text below */
 .full-text {
-  width: 100%;
+  width: 80%;
 }
 
 /* Optional responsive behavior */
